@@ -3,8 +3,8 @@
 kubectl config get-contexts
 # To check current context(Cluster)
 kubectl get current-context
-#To change context to different
+# To change context to different
 kubectl config get-contexts
 kubectl config use-context docker-desktop
-#To delete context from config
+# To delete context from config
 kubectl config delete context docker-desktop
