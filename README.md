@@ -8,3 +8,6 @@ kubectl config get-contexts
 kubectl config use-context docker-desktop
 # To delete context from config
 kubectl config delete context docker-desktop
+
+#kubectl Quick Reference
+https://kubernetes.io/docs/reference/kubectl/quick-reference/
